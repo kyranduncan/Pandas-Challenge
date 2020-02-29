@@ -1,0 +1,6 @@
+Heroes of Pymoli Observable Data Trends:
+
+1. Players are predominantly male (84.03%)
+2. While male players have the highest total purchase value, both female and other/non disclosed had a higher average total purchase per person, therefore they spend more when they do make a purchase.
+3. 20-24 age group represents the largest portion of players by far with 44.79% of all players.
+4. 35-39 age group spends the most per purchase at $3.60.
